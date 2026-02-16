@@ -17,5 +17,3 @@ and (re)compiling the source code. (sudo make clean install)
 ## Related Projects
 
 https://github.com/MJorink/dwm-jorink
-
-https://github.com/MJorink/dmenu-jorink
